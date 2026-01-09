@@ -1,4 +1,4 @@
-The project content is available in both master and main branches.
+__The project content is available in both master and main branches.__
 
 # Mind Insight Dashboard - AI Mental Health Analysis Platform
 
